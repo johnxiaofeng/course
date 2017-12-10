@@ -4,5 +4,5 @@ The details of the project can be found from the [writeup](Writeup.pdf). The sou
 (P1.ipynb). 
 
 The final result video of this project can be found as following:
-[Result of lane detection Test 1](https://www.youtube.com/watch?v=0_5BphhaPkU)
-[Result of lane detection Test 2](https://www.youtube.com/watch?v=13ix5AI4A4w)
+1. [Result of lane detection Test 1](https://www.youtube.com/watch?v=0_5BphhaPkU)
+2. [Result of lane detection Test 2](https://www.youtube.com/watch?v=13ix5AI4A4w)
