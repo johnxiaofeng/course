@@ -1,6 +1,4 @@
-This is the 1st project in the 1st Term of the course. This project uses basic computer vision techniques like edge detection
-and hough transformation to detect straight lanes from given image. The final program works on input video, and blend the
-detected lane back to the video and output a new video.
+This is the 1st project in the 1st Term of the course. This project uses basic computer vision techniques like Gaussian Blur, Canny edge detection, and Hough transformation to detect straight lanes from given image. The final program works on input video, and blend the detected lane back to the video and output a new video.
 
 The details of the project can be found from the [writeup](Writeup.pdf). The source codes are organized in the [Jupyter Notebook]
 (P1.ipynb). 
